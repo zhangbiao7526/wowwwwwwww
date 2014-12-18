@@ -6,4 +6,5 @@ public class VARIABLE {
 	public static final String SERVER="10.30.6.85";
 		int aaaa;
 		String s="caacaca";
+		String a="caaca";
 	}
